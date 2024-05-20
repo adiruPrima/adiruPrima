@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, anime, and cats
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on open source app
+- 🟢 My favorite color is green
 - 📫 How to reach me: X, YouTube, LinkedIn, GitHub
 - ⚡ Fun fact: I don't have friends
 
