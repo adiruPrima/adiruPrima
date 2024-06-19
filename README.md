@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adiruPrima
+- 👋 Hi, I’m Adil Prima
 - 👀 I’m interested in coding, anime, and cats
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on web app projects
